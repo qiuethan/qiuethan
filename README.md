@@ -1,5 +1,6 @@
-![Banner](https://github.com/user-attachments/assets/04d6e124-ec55-4f20-b96f-837b5a062e57)
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/04d6e124-ec55-4f20-b96f-837b5a062e57" width="100%" height="auto">
+</p>
 
 ### Hi there, I'm Ethan 👋🚀
 
