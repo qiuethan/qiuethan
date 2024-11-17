@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/04d6e124-ec55-4f20-b96f-837b5a062e57" width="100%" height="auto">
-</p>
+<div style="display: flex; align-items: center; justify-content: center; height: 200px; overflow: hidden;">
+  <img src="https://github.com/user-attachments/assets/04d6e124-ec55-4f20-b96f-837b5a062e57" height="200px" style="width: auto; max-width: 100%;">
+</div>
 
 ### Hi there, I'm Ethan 👋🚀
 
