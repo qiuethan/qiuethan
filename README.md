@@ -7,7 +7,7 @@
 - 💡 Built several hackathon projects, including:
   - 🧠 **Crosswalk of Shame** — a real-time object detection tool to reduce distracted walking.
   - 🔒 **GameStoppr** — a browser-integrated platform that blocks addictive apps and rewards healthy behavior.
-- 🖥️ Currently working at **General Dynamics Mission Systems–Canada** as a Software Developer (Java, Python, test automation).  
+- 🖥️ Currently working at **General Dynamics Mission Systems–Canada** as a Software Developer.  
 - 🤖 Software Developer with **UTMIST (UofT Machine Intelligence Student Team)**.
 - 🌱 Passionate about deep learning and building practical applications for human-centered AI.
 - 📬 Reach me at: [ethanqiu@gmail.com](mailto:ethanqiu@gmail.com)  
