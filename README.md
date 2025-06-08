@@ -5,6 +5,7 @@
 - 🔧 Currently building automation tools for the Hart House Debating Club, a lecture note-taker, and other side projects.  
 - 💬 Working on **Bounce Back**, an AI-powered mental wellness app.
 - 💡 Built several hackathon projects, including:
+-   🌸 **Hyacinthe**(https://github.com/coherentboi/hyacinthe) – ([article](https://uwimprint.ca/the-winners-of-geesehacks-and-whats-next-for-this-student-run-hackathon/))  
   - 🧠 **Crosswalk of Shame** — a real-time object detection tool to reduce distracted walking.
   - 🔒 **GameStoppr** — a browser-integrated platform that blocks addictive apps and rewards healthy behavior.
 - 🖥️ Currently working at **General Dynamics Mission Systems–Canada** as a Software Developer.  
