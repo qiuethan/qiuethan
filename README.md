@@ -3,7 +3,7 @@
 ### 🧠 Computer Science Student @ University of Toronto
 
 - 🔧 Currently building automation tools for the Hart House Debating Club, a lecture note-taker, and other side projects.  
-- 💬 Working on Bounce Back, an AI-powered mental wellness app, and RT1M, a financial planning and motivation app helping users hit their first million.
+- 💬 Working on **Bounce Back**, an AI-powered mental wellness app, and **RT1M**, a financial planning and motivation app helping users hit their first million.
 - 💡 Built several hackathon projects, including:
 -   🌸 **Hyacinthe** — a computer vision navigator for the visually impaired ([See Article](https://uwimprint.ca/the-winners-of-geesehacks-and-whats-next-for-this-student-run-hackathon/))  
   - 🧠 **Crosswalk of Shame** — a real-time object detection tool to reduce distracted walking.
