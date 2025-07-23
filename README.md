@@ -9,7 +9,7 @@
   - ⚙️ **HHDC Automation** — a suite of tools to automate registration, scheduling, payments, and tabulation for Hart House Debating Club tournaments.
 - 🏆 Created award-winning hackathon projects, including:
   - 🌸 **Hyacinthe** — a computer vision navigator for the visually impaired (**1st Place Overall @ GeeseHacks**) ([See Article](https://uwimprint.ca/the-winners-of-geesehacks-and-whats-next-for-this-student-run-hackathon/))  
-  - 🐾 **Polaris** — a multiplayer fitness platformer using pose detection and WebSockets (**1st Place Game Hack @ Hack the 6ix 2024**) ([See Devpost](https://devpost.com/software/polaris-vlp1wm/updates/664728))  
+  - 🐾 **Polaris** — a multiplayer fitness platformer using pose detection and WebSockets (**1st Place Game Hack @ Hack the 6ix 2025**) ([See Devpost](https://devpost.com/software/polaris-vlp1wm/updates/664728))  
   - 🧠 **Crosswalk of Shame** — a real-time object detection tool to reduce distracted walking.  
   - 🔒 **GameStoppr** — a browser-integrated platform that blocks addictive apps and rewards healthy behavior.
 - 🖥️ Currently working at **General Dynamics Mission Systems–Canada** as a Software Engineer.  
