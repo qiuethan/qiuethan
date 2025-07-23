@@ -2,14 +2,18 @@
 
 ### 🧠 Computer Science Student @ University of Toronto
 
-- 🔧 Currently building automation tools for the Hart House Debating Club, a lecture note-taker, and other side projects.  
-- 💬 Working on **Bounce Back**, an AI-powered mental wellness app, and **RT1M**, a financial planning and motivation app helping users hit their first million.
-- 💡 Built several hackathon projects, including:
--   🌸 **Hyacinthe** — a computer vision navigator for the visually impaired ([See Article](https://uwimprint.ca/the-winners-of-geesehacks-and-whats-next-for-this-student-run-hackathon/))  
-  - 🧠 **Crosswalk of Shame** — a real-time object detection tool to reduce distracted walking.
+- 💡 Built several projects, including:
+  - 💬 **Bounce Back** — an AI-powered mental wellness app with journaling, avoidance zones, activity tracking, and an empathetic chatbot.
+  - 💸 **RT1M (Road to 1 Million)** — a financial planning and motivation app to help users hit their first million through structured goals and AI planning.
+  - 🛒 **Shop-Buddy** — an AI-powered grocery assistant that uses image recognition and allergy profiles to recommend safe food options.
+  - ⚙️ **HHDC Automation** — a suite of tools to automate registration, scheduling, payments, and tabulation for Hart House Debating Club tournaments.
+- 🏆 Created award-winning hackathon projects, including:
+  - 🌸 **Hyacinthe** — a computer vision navigator for the visually impaired (**1st Place Overall @ GeeseHacks**) ([See Article](https://uwimprint.ca/the-winners-of-geesehacks-and-whats-next-for-this-student-run-hackathon/))  
+  - 🐾 **Polaris** — a multiplayer fitness platformer using pose detection and WebSockets (**1st Place Game Hack @ Hack the 6ix 2024**) ([See Devpost](https://devpost.com/software/polaris-vlp1wm/updates/664728))  
+  - 🧠 **Crosswalk of Shame** — a real-time object detection tool to reduce distracted walking.  
   - 🔒 **GameStoppr** — a browser-integrated platform that blocks addictive apps and rewards healthy behavior.
 - 🖥️ Currently working at **General Dynamics Mission Systems–Canada** as a Software Engineer.  
-- 🤖 Software Developer with **UTMIST (UofT Machine Intelligence Student Team)**.
+- 🤖 Engineering Director, Machine Learning Engineer and Full-Stack Developer with **UTMIST (UofT Machine Intelligence Student Team)**.
 - 🌱 Passionate about deep learning and building practical applications for human-centered AI.
 - 📬 Reach me at: [ethanqiu@gmail.com](mailto:ethanqiu@gmail.com)  
 - ⚡ Fun fact: I love chasing startup ideas—big or small, I’m always prototyping something new!
