@@ -1,8 +1,6 @@
-## 👋 Hi, I’m Ethan!
+# 👋 Hi, I’m Ethan
 
-# 👋 Hi, I’m Ethan Qiu  
-
-🧠 **Computer Science Student @ University of Toronto** (CS Specialist, AI focus)  
+🧠 **Computer Science Student @ University of Toronto** (CS Specialist, AI and TL focus)  
 🤖 **Prev. Software Engineer Co-op @ General Dynamics Mission Systems–Canada**  
 🚀 **Engineering Director + ML Engineer @ UTMIST** (Machine Intelligence Student Team)  
 
