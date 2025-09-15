@@ -24,7 +24,7 @@
 ---
 
 ## 🌱 Interests  
-- Deep learning + **human-centered AI**  
+- Deep learning + human-centered AI  
 - Real-time AI systems (CV + LLM pipelines)  
 - Building practical, startup-style prototypes  
 
