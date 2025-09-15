@@ -3,7 +3,7 @@
 # 👋 Hi, I’m Ethan Qiu  
 
 🧠 **Computer Science Student @ University of Toronto** (CS Specialist, AI focus)  
-🤖 **Software Engineer Co-op @ General Dynamics Mission Systems–Canada**  
+🤖 **Prev. Software Engineer Co-op @ General Dynamics Mission Systems–Canada**  
 🚀 **Engineering Director + ML Engineer @ UTMIST** (Machine Intelligence Student Team)  
 
 ---
