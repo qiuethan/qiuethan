@@ -1,22 +1,43 @@
 ## 👋 Hi, I’m Ethan!
 
-### 🧠 Computer Science Student @ University of Toronto
+# 👋 Hi, I’m Ethan Qiu  
 
-- 💡 Built several projects, including:
-  - 💬 **Bounce Back** — an AI-powered mental wellness app with journaling, avoidance zones, activity tracking, and an empathetic chatbot.
-  - 💸 **RT1M (Road to 1 Million)** — a financial planning and motivation app to help users hit their first million through structured goals and AI planning.
-  - 🛒 **Shop-Buddy** — an AI-powered grocery assistant that uses image recognition and allergy profiles to recommend safe food options.
-  - ⚙️ **HHDC Automation** — a suite of tools to automate registration, scheduling, payments, and tabulation for Hart House Debating Club tournaments.
-- 🏆 Created award-winning hackathon projects, including:
-  - 🌸 **Hyacinthe** — a computer vision navigator for the visually impaired (**1st Place Overall @ GeeseHacks**) ([See Article](https://uwimprint.ca/the-winners-of-geesehacks-and-whats-next-for-this-student-run-hackathon/))  
-  - 🐾 **Polaris** — a multiplayer fitness platformer using pose detection and WebSockets (**1st Place Game Hack @ Hack the 6ix 2025**) ([See Devpost](https://devpost.com/software/polaris-vlp1wm/updates/664728))  
-  - 🧠 **Crosswalk of Shame** — a real-time object detection tool to reduce distracted walking.  
-  - 🔒 **GameStoppr** — a browser-integrated platform that blocks addictive apps and rewards healthy behavior.
-- 🖥️ Currently working at **General Dynamics Mission Systems–Canada** as a Software Engineer.  
-- 🤖 Engineering Director, Machine Learning Engineer and Full-Stack Developer with **UTMIST (UofT Machine Intelligence Student Team)**.
-- 🌱 Passionate about deep learning and building practical applications for human-centered AI.
-- 📬 Reach me at: [ethanqiu@gmail.com](mailto:ethanqiu@gmail.com)  
-- ⚡ Fun fact: I love chasing startup ideas—big or small, I’m always prototyping something new!
+🧠 **Computer Science Student @ University of Toronto** (CS Specialist, AI focus)  
+🤖 **Software Engineer Co-op @ General Dynamics Mission Systems–Canada**  
+🚀 **Engineering Director + ML Engineer @ UTMIST** (Machine Intelligence Student Team)  
+
+---
+
+## 💡 What I Build  
+- 💬 **Bounce Back** — AI-powered mental wellness app with journaling, avoidance zones, activity tracking, and an empathetic chatbot.  
+- 💸 **RT1M (Road to 1 Million)** — financial planning + motivation app that helps users hit their first million with structured goals and AI planning.  
+- 🛒 **Shop-Buddy** — image recognition + allergy profiles → safe grocery recommendations.  
+- ⚙️ **HHDC Automation** — automated registration, scheduling, payments, and tabulation for 240+ participants at Hart House Debating Club tournaments.  
+
+---
+
+## 🏆 Hackathon Highlights  
+- 🌸 **Hyacinthe** — computer vision navigator for the visually impaired → **1st Place Overall @ GeeseHacks** ([Article](#))  
+- 🐾 **Polaris** — multiplayer fitness platformer with pose detection + WebSockets → **Best Game Hack @ Hack the 6ix 2025** ([Devpost](https://devpost.com/software/polaris))  
+- 🧠 **Orbit** — real-time social intelligence platform with LLMs + CV → **Best Use of Groq + Windsurf @ Hack the North 2025** ([Devpost](https://devpost.com/software/orbit-59jths))  
+- 🧍 **Crosswalk of Shame** — real-time object detection to reduce distracted walking.  
+- 🔒 **GameStoppr** — browser extension to block addictive apps + reward healthy behavior.  
+
+---
+
+## 🌱 Interests  
+- Deep learning + **human-centered AI**  
+- Real-time AI systems (CV + LLM pipelines)  
+- Building practical, startup-style prototypes  
+
+---
+
+## 📫 Let’s Connect  
+- 📧 ethanqiu@gmail.com  
+- 🌐 [LinkedIn](https://linkedin.com/in/qiu-ethan)  
+- 💻 [GitHub](https://github.com/qiuethan)  
+
+⚡ **Fun fact**: I love chasing startup ideas — big or small, I’m always prototyping something new!  
 
 ---
 
