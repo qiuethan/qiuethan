@@ -1,3 +1,5 @@
+# Hi, I’m Ethan
+
 **Computer Science Student @ University of Toronto**  
 (CS Specialist with AI & Technology Leadership focus)  
 **Software Engineer Co-op @ General Dynamics Mission Systems–Canada (previous)**  
@@ -29,6 +31,7 @@
 
 - **Hyacinthe** — computer vision navigator for the visually impaired  
   *1st Place Overall @ GeeseHacks*  
+  [Devpost](https://devpost.com/software/hyacinthe)  
 
 - **Crosswalk of Shame** — real-time object detection to reduce distracted walking  
 - **GameStoppr** — browser extension blocking addictive apps and rewarding healthy behavior
