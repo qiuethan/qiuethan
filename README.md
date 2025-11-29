@@ -1,7 +1,6 @@
 # Hi, I’m Ethan
 
-**Computer Science Student @ University of Toronto**  
-(CS Specialist with AI & Theoretical Linguistics focus)  
+**Computer Science Student @ University of Toronto**  (CS Specialist with AI & Technology Leadership Focus)  
 **Software Engineer Co-op @ General Dynamics Mission Systems–Canada (previous)**  
 **Engineering Director & ML Engineer @ UTMIST**
 
