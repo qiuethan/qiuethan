@@ -1,5 +1,3 @@
-# Hi, I’m Ethan
-
 **Computer Science Student @ University of Toronto**  
 (CS Specialist with AI & Technology Leadership focus)  
 **Software Engineer Co-op @ General Dynamics Mission Systems–Canada (previous)**  
