@@ -1,12 +1,15 @@
 # Hi, I’m Ethan
 
-**Computer Science Student @ University of Toronto**  (CS Specialist with AI & Technology Leadership Focus)  
+**Computer Science Student @ University of Toronto**  
+(CS Specialist with AI & Technology Leadership focus)  
 **Software Engineer Co-op @ General Dynamics Mission Systems–Canada (previous)**  
-**Engineering Director & ML Engineer @ UTMIST**
+**Engineering Director & ML Engineer @ UTMIST**  
+**Project Lead @ UofT Blueprint**
 
 ---
 
 ## Projects
+- **Cybermetrics** — baseball analytics platform evaluating lineup synergy using domain-driven design and Clean Architecture; built using React TS, FastAPI, Firebase, and automated test coverage >90%  
 - **Bounce Back** — AI-powered mental wellness app (journaling, avoidance zones, activity tracking, empathetic chatbot)  
 - **RT1M (Road to 1 Million)** — financial planning and motivation platform driven by structured goals and AI  
 - **Shop-Buddy** — image recognition and allergy profiling for safe grocery recommendations  
@@ -15,12 +18,20 @@
 ---
 
 ## Hackathon Highlights
+- **Heimer Academy** — League of Legends–themed adaptive learning platform using AI-driven curriculum branching  
+  [Devpost](https://devpost.com/software/idk-evraiq)  
+
+- **Orbit** — real-time social intelligence platform leveraging LLMs and CV  
+  *Best Use of Groq + Windsurf @ Hack the North 2025*  
+  [Devpost](https://devpost.com/software/orbit-59jths)  
+
+- **Polaris** — multiplayer fitness platformer with pose detection and WebSockets  
+  *Best Game Hack @ Hack the 6ix 2025*  
+  [Devpost](https://devpost.com/software/polaris)  
+
 - **Hyacinthe** — computer vision navigator for the visually impaired  
   *1st Place Overall @ GeeseHacks*  
-- **Polaris** — multiplayer fitness platformer with pose detection and WebSockets  
-  *Best Game Hack @ Hack the 6ix 2025* — [Devpost](https://devpost.com/software/polaris)  
-- **Orbit** — real-time social intelligence platform leveraging LLMs and CV  
-  *Best Use of Groq + Windsurf @ Hack the North 2025* — [Devpost](https://devpost.com/software/orbit-59jths)  
+
 - **Crosswalk of Shame** — real-time object detection to reduce distracted walking  
 - **GameStoppr** — browser extension blocking addictive apps and rewarding healthy behavior
 
@@ -58,6 +69,7 @@ Fun fact: I’m constantly prototyping new ideas—big or small.
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=ffffff)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=ffffff)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=ffffff)
 
 ### Libraries  
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=ffffff)
