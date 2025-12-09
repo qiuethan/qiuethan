@@ -9,6 +9,8 @@
 ---
 
 ## Projects
+- **archctl** — architecture analysis + enforcement tool for TypeScript/JS/Python/Java based on Clean Architecture & DDD principles; detects forbidden imports, capability violations, and structural issues.
+*Actively in development, let me know if you want to help.*
 - **Cybermetrics** — baseball analytics platform evaluating lineup synergy using domain-driven design and Clean Architecture; built using React TS, FastAPI, Firebase, and automated test coverage >90%  
 - **Bounce Back** — AI-powered mental wellness app (journaling, avoidance zones, activity tracking, empathetic chatbot)  
 - **RT1M (Road to 1 Million)** — financial planning and motivation platform driven by structured goals and AI  
