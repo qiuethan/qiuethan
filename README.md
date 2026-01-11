@@ -28,8 +28,7 @@
 ## Hackathon Highlights
 
 **Heimer Academy** — AI-driven adaptive learning platform for League of Legends  
-*First Place Overall · Riot Games × AWS Hackathon*  
-Built a real-time adaptive tutoring system that analyzes player gameplay, mistakes, and learning patterns to dynamically branch curriculum paths. Integrated game telemetry with an LLM-powered coaching engine to deliver personalized, skill-targeted lessons at scale.  
+*First Place Overall · Riot Games × AWS Hackathon*   
 [Devpost](https://devpost.com/software/idk-evraiq)
 
 **Orbit** — real-time social intelligence platform (LLMs + computer vision)  
