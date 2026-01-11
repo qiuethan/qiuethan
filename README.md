@@ -9,39 +9,48 @@
 ---
 
 ## Projects
-- **archctl** — architecture analysis + enforcement tool for TypeScript/JS/Python/Java based on Clean Architecture & DDD principles; detects forbidden imports, capability violations, and structural issues.
-*Actively in development, let me know if you want to help.*
-- **Cybermetrics** — baseball analytics platform evaluating lineup synergy using domain-driven design and Clean Architecture; built using React TS, FastAPI, Firebase, and automated test coverage >90%  
-- **Bounce Back** — AI-powered mental wellness app (journaling, avoidance zones, activity tracking, empathetic chatbot)  
-- **RT1M (Road to 1 Million)** — financial planning and motivation platform driven by structured goals and AI  
-- **Shop-Buddy** — image recognition and allergy profiling for safe grocery recommendations  
-- **HHDC Automation** — automated registration, scheduling, payments, and tabulation workflows for 240+ debate tournament participants
+
+- **archctl** — architecture analysis + enforcement tool for TypeScript, JavaScript, Python, and Java based on Clean Architecture and DDD principles; detects forbidden imports, capability violations, and structural issues.  
+  *Actively in development, let me know if you want to help.*
+
+- **Cybermetrics** — baseball analytics platform evaluating lineup synergy using domain-driven design and Clean Architecture; built with React (TypeScript), FastAPI, Firebase, and automated test coverage above 90%.
+
+- **Bounce Back** — AI-powered mental wellness app featuring journaling, avoidance zones, activity tracking, and an empathetic chatbot.
+
+- **RT1M (Road to 1 Million)** — financial planning and motivation platform driven by structured goals and AI.
+
+- **Shop-Buddy** — computer-vision based grocery assistant using image recognition and allergy profiling to recommend safe food products.
+
+- **HHDC Automation** — automated registration, scheduling, payments, and tabulation workflows for 240+ debate tournament participants.
 
 ---
 
 ## Hackathon Highlights
-- **Heimer Academy** — AI-driven adaptive learning platform for League of Legends
-  *First Place Overall · Riot Games × AWS Hackathon*
-  [Devpost](https://devpost.com/software/idk-evraiq)
 
-- **Orbit** — real-time social intelligence platform leveraging LLMs and CV  
-  *Best Use of Groq + Windsurf @ Hack the North 2025*  
-  [Devpost](https://devpost.com/software/orbit-59jths)  
+**Heimer Academy** — AI-driven adaptive learning platform for League of Legends  
+*First Place Overall · Riot Games × AWS Hackathon*  
+Built a real-time adaptive tutoring system that analyzes player gameplay, mistakes, and learning patterns to dynamically branch curriculum paths. Integrated game telemetry with an LLM-powered coaching engine to deliver personalized, skill-targeted lessons at scale.  
+[Devpost](https://devpost.com/software/idk-evraiq)
 
-- **Polaris** — multiplayer fitness platformer with pose detection and WebSockets  
-  *Best Game Hack @ Hack the 6ix 2025*  
-  [Devpost](https://devpost.com/software/polaris)  
+**Orbit** — real-time social intelligence platform (LLMs + computer vision)  
+*Best Use of Groq + Windsurf · Hack the North 2025*  
+[Devpost](https://devpost.com/software/orbit-59jths)
 
-- **Hyacinthe** — computer vision navigator for the visually impaired  
-  *1st Place Overall @ GeeseHacks*  
-  [Devpost](https://devpost.com/software/hyacinthe)  
+**Polaris** — multiplayer pose-based fitness platformer  
+*Best Game Hack · Hack the 6ix 2025*  
+[Devpost](https://devpost.com/software/polaris)
 
-- **Crosswalk of Shame** — real-time object detection to reduce distracted walking  
-- **GameStoppr** — browser extension blocking addictive apps and rewarding healthy behavior
+**Hyacinthe** — computer-vision navigation system for the visually impaired  
+*1st Place Overall · GeeseHacks*  
+[Devpost](https://devpost.com/software/hyacinthe)
+
+**Crosswalk of Shame** — real-time object detection system to reduce distracted walking  
+**GameStoppr** — browser extension blocking addictive apps and rewarding healthy behavior
 
 ---
 
 ## Interests
+
 - Deep learning and human-centered AI  
 - Real-time AI systems (computer vision + LLM pipelines)  
 - Rapid prototyping and startup-style development
@@ -49,11 +58,12 @@
 ---
 
 ## Connect
+
 **Email:** ethanqiu@gmail.com  
 **LinkedIn:** https://linkedin.com/in/qiu-ethan  
-**GitHub:** https://github.com/qiuethan
+**GitHub:** https://github.com/qiuethan  
 
-Fun fact: I’m constantly prototyping new ideas—big or small.
+Fun fact: I’m constantly prototyping new ideas, big or small.
 
 ---
 
