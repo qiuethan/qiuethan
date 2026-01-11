@@ -20,8 +20,9 @@
 ---
 
 ## Hackathon Highlights
-- **Heimer Academy** — League of Legends–themed adaptive learning platform using AI-driven curriculum branching  
-  [Devpost](https://devpost.com/software/idk-evraiq)  
+- **Heimer Academy** — AI-driven adaptive learning platform for League of Legends
+  *First Place Overall · Riot Games × AWS Hackathon*
+  [Devpost](https://devpost.com/software/idk-evraiq)
 
 - **Orbit** — real-time social intelligence platform leveraging LLMs and CV  
   *Best Use of Groq + Windsurf @ Hack the North 2025*  
