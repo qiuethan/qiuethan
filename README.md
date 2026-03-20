@@ -2,6 +2,7 @@
 
 **Computer Science Student @ University of Toronto**  
 (CS Specialist with AI & Technology Leadership focus)  
+**Incoming Software Engineering Intern @ Shopify**  
 **Software Engineer Co-op @ General Dynamics Mission Systems–Canada (previous)**  
 **Engineering Director & ML Engineer @ UTMIST**  
 **Project Lead @ UofT Blueprint**
@@ -26,6 +27,10 @@
 ---
 
 ## Hackathon Highlights
+
+**Identity Matrix** — real-time multiplayer simulation with persistent AI agents that continue interacting after logout  
+🏆 *1st Place Overall · UofTHacks*  
+[Devpost](https://devpost.com/software/temp-sqyptg)
 
 **Heimer Academy** — AI-driven adaptive learning platform for League of Legends  
 🏆 *1st Place Overall · Riot Games × AWS Hackathon*   
