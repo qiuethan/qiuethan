@@ -2,8 +2,8 @@
 
 **Computer Science Student @ University of Toronto**  
 (CS Specialist with AI & Technology Leadership focus)  
-**Incoming Software Engineering Intern @ Shopify**  
-**Software Engineer Co-op @ General Dynamics Mission Systems–Canada (previous)**  
+**Software Engineering Intern @ Shopify**  
+**Prev. Software Engineer Co-op @ General Dynamics Mission Systems–Canada**  
 **Engineering Director & ML Engineer @ UTMIST**  
 **Project Lead @ UofT Blueprint**
 
