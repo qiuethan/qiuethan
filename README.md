@@ -11,6 +11,8 @@
 
 ## Projects
 
+- **Thea** — Discord-native personal AI assistant featuring text/voice interaction, semantic memory, plugin-based tool use, scheduled automations, and autonomous planning modes. Built with Node.js/TypeScript, Discord.js, AWS Bedrock, Supabase vector search, ElevenLabs TTS, and Deepgram STT.
+
 - **archctl** — architecture analysis + enforcement tool for TypeScript, JavaScript, Python, and Java based on Clean Architecture and DDD principles; detects forbidden imports, capability violations, and structural issues.  
   *Actively in development, let me know if you want to help.*
 
@@ -33,10 +35,10 @@
 [Devpost](https://devpost.com/software/temp-sqyptg)
 
 **Heimer Academy** — AI-driven adaptive learning platform for League of Legends  
-🏆 *1st Place Overall · Riot Games × AWS Hackathon*   
+🏆 *1st Place Overall · Riot Games × AWS Hackathon*  
 [Devpost](https://devpost.com/software/idk-evraiq)
 
-**Orbit** — real-time social intelligence platform (LLMs + computer vision)  
+**Orbit** — real-time social intelligence platform using LLMs and computer vision  
 🏆 *Best Use of Groq + Windsurf · Hack the North 2025*  
 [Devpost](https://devpost.com/software/orbit-59jths)
 
@@ -49,6 +51,7 @@
 [Devpost](https://devpost.com/software/hyacinthe)
 
 **Crosswalk of Shame** — real-time object detection system to reduce distracted walking  
+
 **GameStoppr** — browser extension blocking addictive apps and rewarding healthy behavior
 
 ---
@@ -56,7 +59,7 @@
 ## Interests
 
 - Deep learning and human-centered AI  
-- Real-time AI systems (computer vision + LLM pipelines)  
+- Real-time AI systems, especially computer vision and LLM pipelines  
 - Rapid prototyping and startup-style development
 
 ---
